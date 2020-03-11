@@ -5,6 +5,8 @@ before_install:
   # make depends on poetry
   - pip install poetry
 
-script:
-  - make lint
+install:
+  - make install
 
+script:
+  - make check
