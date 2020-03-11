@@ -1,4 +1,3 @@
-import brain_games
 from brain_games.cli import welcome_user
 
 
