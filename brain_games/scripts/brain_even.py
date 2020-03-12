@@ -18,7 +18,8 @@ def is_even():
             counter += 1
             print('Correct!')
         else:
-            print('\'{}\' is wrong answer ;(. Correct answer was \'{}\'.'.format(user_answer, right_solution))
+            print('\'{}\' is wrong answer ;(. Correct answer was \'{}\'.'
+                  .format(user_answer, right_solution))
             print('Let\'s try again, {}!'.format(user_name))
             break
 
