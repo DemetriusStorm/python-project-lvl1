@@ -1,9 +1,11 @@
 from random import randrange
-from brain_games.cli import welcome_user, user_name
-from brain_games.scripts.brain_games import welcome
+from brain_games.cli import welcome_user
 
 
 def is_even():
+    user_name = welcome_user()
+    print()
+
     counter = 0
 
     while counter != 3:
@@ -28,13 +30,7 @@ def is_even():
 
 
 def main():
-    welcome()
+    print('be-Welcome to the Brain Games!')
     print('Answer "yes" if number even otherwise answer "no".')
     print()
-    welcome_user()
-    print()
     is_even()
-
-
-if __name__ == '__main__':
-    main()
