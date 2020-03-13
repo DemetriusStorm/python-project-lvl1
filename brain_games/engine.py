@@ -12,7 +12,7 @@ def run(game):
     all_count = 3
 
     while counter != all_count:
-        question, right_solution = game.is_even()
+        question, right_solution = game.round()
 
         print('Question: {}'.format(question))
         user_answer = prompt.string('Your answer: ')
