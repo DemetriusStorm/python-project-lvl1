@@ -1,3 +1,7 @@
+from random import randint
+
+DESCRIPTION = 'Answer "yes" if given number is prime. Otherwise answer "no".'
+
 def is_prime(n):
     limit = (n ** 0.5)
     divider = 2
