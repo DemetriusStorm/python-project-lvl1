@@ -1,5 +1,4 @@
 import prompt
-from brain_games import cli
 
 
 def run(game):
@@ -7,7 +6,10 @@ def run(game):
     print(game.DESCRIPTION)
     print()
 
-    user_name = cli.run()
+    user_name = prompt.string('May I have your name? ')
+    print('Hello, {}!'.format(user_name))
+    print()
+
     counter = 0
     all_count = 3
 
@@ -28,3 +30,4 @@ def run(game):
 
     if counter == all_count:
         print('Congratulations, {}!'.format(user_name))
+
