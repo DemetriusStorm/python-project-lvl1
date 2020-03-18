@@ -5,9 +5,9 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/a99a88d28ad37a79dbf6/maintainability)](https://codeclimate.com/github/codeclimate/codeclimate/maintainability)
 [![Build Status](https://travis-ci.com/travis-ci/travis-web.svg?branch=master)](https://travis-ci.com/travis-ci/travis-web)
 
-## Short instruction on installing the brain-games package
+### Short instruction on installing the brain-games package
 #### For installing this package run the command:
-#### 'pip install --index-url https://test.pypi.org/simple --extra-index-url https://pypi.org/simple demetriusstorm-brain-games'
+#### `pip install --index-url https://test.pypi.org/simple --extra-index-url https://pypi.org/simple demetriusstorm-brain-games`
 [![asciicast](https://asciinema.org/a/L9dQpb2DV28SYTuYGjiZEMV8U.svg)](https://asciinema.org/a/L9dQpb2DV28SYTuYGjiZEMV8U)
 
 ## Gameplay
