@@ -30,4 +30,3 @@ def run(game):
 
     if counter == all_count:
         print('Congratulations, {}!'.format(user_name))
-
