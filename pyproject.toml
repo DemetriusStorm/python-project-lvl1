@@ -16,7 +16,7 @@ classifiers = [
 	'Programming Language :: Python',
 	'Development Status :: 5 - Production/Stable',
 	'Intended Audience :: Education'
-	'Topic :: Games/Entertainment :: Puzzle Games',
+	'Topic :: Games/Entertainment :: Puzzle Games'
 ]
 packages = [
     { include = "brain_games" },
