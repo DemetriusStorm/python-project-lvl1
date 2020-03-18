@@ -1,8 +1,9 @@
 [tool.poetry]
 name = "DemetriusStorm_brain_games"
-version = "0.9.3"
-description = ""
+version = "0.9.4"
+description = "The package contains simple math games"
 authors = ["Dmitriy Bulygin <demetrius.storm@gmail.com>"]
+repository = "https://github.com/DemetriusStorm/python-project-lvl1"
 packages = [
     { include = "brain_games" },
 ]
