@@ -16,7 +16,7 @@ For installing this package run the command:
 
 [![asciicast](https://asciinema.org/a/em9A4FfWSz7E85XX3EuDZKS7B.svg)](https://asciinema.org/a/em9A4FfWSz7E85XX3EuDZKS7B)
 
-- brain-calc
+brain-calc
 
 [![asciicast](https://asciinema.org/a/mDgzV6hNvAmdQ8G3X98YbZVDm.svg)](https://asciinema.org/a/mDgzV6hNvAmdQ8G3X98YbZVDm)
 
@@ -24,10 +24,10 @@ brain-gcd
 
 [![asciicast](https://asciinema.org/a/9KMzVPMjoFBu7D7DgEIVDQp1W.svg)](https://asciinema.org/a/9KMzVPMjoFBu7D7DgEIVDQp1W)
 
-- brain-progression
+brain-progression
 
 [![asciicast](https://asciinema.org/a/MlSxXtewDdONEQh3wwsg7plVi.svg)](https://asciinema.org/a/MlSxXtewDdONEQh3wwsg7plVi)
 
-- brain-prime
+brain-prime
 
 [![asciicast](https://asciinema.org/a/DvhGkRCMEWX6UAVL0uoXaWIuI.svg)](https://asciinema.org/a/DvhGkRCMEWX6UAVL0uoXaWIuI)
